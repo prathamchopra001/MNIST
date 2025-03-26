@@ -5,3 +5,4 @@ keras
 torch
 fastai
 streamlit
+streamlit-drawable-canvas
